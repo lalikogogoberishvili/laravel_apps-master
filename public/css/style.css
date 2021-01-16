@@ -1,0 +1,22 @@
+.dark{
+    color:blue;
+}
+.light{
+    color:grey
+}
+.container{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    min-height: 100vh;
+    border: 1px solid black;
+}
+.product{
+    width: 20%;
+    padding: 10px;
+    min-height: 300px;
+}
+.product .price{
+    font-size: 15px;
+    color:lightcoral
+}
